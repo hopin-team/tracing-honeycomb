@@ -14,7 +14,7 @@ readme = "README.md"
 tracing = "0.1.12"
 tracing-core = "0.1.9"
 tracing-distributed =  { path = "../tracing-distributed" , version = "0.2.0"}
-libhoney-rust = { git = "https://github.com/hopin-team/tracing-honeycomb.git" }
+libhoney-rust = { git = "https://github.com/hopin-team/libhoney-rust.git" }
 rand = "0.7"
 chrono = "0.4.9"
 
